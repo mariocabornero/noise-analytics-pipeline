@@ -1,0 +1,20 @@
+# Entornos virtuales
+venv/
+.venv/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Resultados generados
+outputs/
+
+# Archivos locales
+.idea/
+.vscode/
+
+# Sistema
+.DS_Store
